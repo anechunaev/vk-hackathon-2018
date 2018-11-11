@@ -52,7 +52,7 @@ public class God : MonoBehaviour {
                 {
                     screenStart.transform.localPosition = new Vector3(
                         hit.transform.localPosition.x - 0.01f,
-                        6.26f,
+                        5.88f,
                         hit.transform.localPosition.z
                     );
                 }
