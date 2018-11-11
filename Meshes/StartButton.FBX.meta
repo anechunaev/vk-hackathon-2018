@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 3fac0410067a06a4197f782bc6f1dae1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Plane003
+    100002: Plane004
+    100004: Plane005
+    100006: //RootNode
+    100008: Text001
+    100010: Plane010
+    100012: Plane011
+    100014: Plane012
+    100016: Text002
+    400000: Plane003
+    400002: Plane004
+    400004: Plane005
+    400006: //RootNode
+    400008: Text001
+    400010: Plane010
+    400012: Plane011
+    400014: Plane012
+    400016: Text002
+    2100000: 'Material #68'
+    2100002: M_White
+    2300000: Plane003
+    2300002: Plane004
+    2300004: Plane005
+    2300006: Text001
+    2300008: Plane010
+    2300010: Plane011
+    2300012: Plane012
+    2300014: Text002
+    3300000: Plane003
+    3300002: Plane004
+    3300004: Plane005
+    3300006: Text001
+    3300008: Plane010
+    3300010: Plane011
+    3300012: Plane012
+    3300014: Text002
+    4300000: Plane003
+    4300002: Plane005
+    4300004: Plane004
+    4300006: Text001
+    4300008: Plane010
+    4300010: Text002
+    4300012: Plane011
+    4300014: Plane012
+    7400000: Take 001
+    7400002: Take 001 //// Plane010
+    7400004: Take 001 //// Plane011
+    7400006: Take 001 //// Plane012
+    9500000: //RootNode
+    11100000: Plane010
+    11100002: Plane011
+    11100004: Plane012
+    11100006: //RootNode
+    11100008: Text002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_White
+    second: {fileID: 2100000, guid: a56dd55cbf30c614a81226924e377a94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #68'
+    second: {fileID: 2100000, guid: 5f619976c7eac5d4ca3f44153317eeca, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 2
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
